@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TestBkgColor</string>
+    <string name="change_bkg_color">修改背景色</string>
+    <string name="start_activity">打开本页面</string>
+    <string name="change_bkg_dr">修改背景drawable</string>
+    <string name="start_test_activity">打开测试Activity</string>
+</resources>
